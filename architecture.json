@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-lyric-poetry-memory-identity",
+  "title": "The Palimpsest of Sorrow",
+  "tagline": "A gifted rememberer must untangle his own life from the memories he preserves, or lose himself entirely in the echoes of a vanished world.",
+  "target_words": 74532,
+  "actual_words": 74532,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Art of Memory",
+    "The Burden of the Past",
+    "The Search for Authentic Self",
+    "The Fragility of History"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Parchment Battlefield",
+      "words": 6211
+    },
+    {
+      "ch": 2,
+      "title": "The Humming Stone",
+      "words": 6211
+    },
+    {
+      "ch": 3,
+      "title": "A Muddy, Riotous Invasion",
+      "words": 6211
+    },
+    {
+      "ch": 4,
+      "title": "A Road of Dust and Dread",
+      "words": 6211
+    },
+    {
+      "ch": 5,
+      "title": "The Cold Root",
+      "words": 6211
+    },
+    {
+      "ch": 6,
+      "title": "Spoils of a Dry Place",
+      "words": 6211
+    },
+    {
+      "ch": 7,
+      "title": "A Cathedral of Accusation",
+      "words": 6211
+    },
+    {
+      "ch": 8,
+      "title": "The Geography of Ruin",
+      "words": 6211
+    },
+    {
+      "ch": 9,
+      "title": "Citizen of Memory",
+      "words": 6211
+    },
+    {
+      "ch": 10,
+      "title": "The Palimpsest World",
+      "words": 6211
+    },
+    {
+      "ch": 11,
+      "title": "The Manuscript Road",
+      "words": 6211
+    },
+    {
+      "ch": 12,
+      "title": "Borders of Receptive Parchment",
+      "words": 6211
+    }
+  ]
+}
